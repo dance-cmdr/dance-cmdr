@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dance-cmdr
-- 👀 I’m interested in TypeScript, React and everything web!
-<!-- - 🌱 I’m currently learning a lot of stuff.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning a lot of stuff.
+- 💞️ I’m looking to collaborate on Data Engineering projects in the context of games.
+- 📫 You can reach me on my email spyropoulos.a@gmail.com. 
+<!-- - 
+👀 I’m interested in pretty much everything!
  -->
 <!---
 dance-cmdr/dance-cmdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
