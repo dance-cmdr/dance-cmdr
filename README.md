@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dance-cmdr
-- 🌱 I’m currently learning a lot of stuff.
-- 💞️ I’m looking to collaborate on Data Engineering projects in the context of games.
-- 📫 You can reach me on my email spyropoulos.a@gmail.com. 
+- 🌱 I’m currently working on Data Engineering Stuff, Mastering python and learning Rust and Go.
+- 📫 You can reach me on my email spyropoulos.a@gmail.com.
+
+<a href="https://app.daily.dev/alexandrosspyropoulos"><img src="https://api.daily.dev/devcards/v2/3xydk60362HoHy2naHIBL.png?type=default&r=b55" width="356" alt="Alexandros Spyropoulos's Dev Card"/></a>
 <!-- - 
 👀 I’m interested in pretty much everything!
  -->
