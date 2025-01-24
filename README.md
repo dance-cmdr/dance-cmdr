@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex @dance-cmdr.
-- 🌱 I’m currently working as a Tech Lead and Principal Engineer in the context of Data Engineering. I'm mastering Python, and in my free time, I'm learning Rust and Go.
+- 🌱 I’m currently working as a Tech Lead and Principal Engineer in the context of Data Engineering. I'm mastering Python, and in my free time, I'm making stuff with  Go.
 - 🐕 I ❤️ dogs!
 - 📫 You can reach me on my email spyropoulos.a@gmail.com.
 
